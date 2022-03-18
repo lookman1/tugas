@@ -27,7 +27,7 @@
                 <input type="text" class="form-control" name="sinopsis" id="sinopsis">
 
                 <br><br>
-                <input type="submit" value="Tambahkan " class="btn btn-secondary"><br>
+                <input type="submit" value="Tambahkan " class="btn btn-info"><br>
             </form>
         </div>
     </div>

@@ -29,7 +29,7 @@
                 <label for="">Sinopsis Buku</label><br>
                 <input type="text" class="form-control" name="sinopsis" id="sinopsis" value=" {{ $books->sinopsis }} ">
                 <br><br>
-                <input type="submit" value="Simpan" class="btn btn-dark"><br>
+                <input type="submit" value="Simpan" class="btn btn-info"><br>
             </form>
         </div>
     </div>
